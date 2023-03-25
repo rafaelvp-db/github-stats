@@ -2,3 +2,4 @@
 .egg
 .whl
 __pycache__
+.env
