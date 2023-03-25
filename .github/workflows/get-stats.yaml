@@ -10,7 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     env: 
       CI_COMMIT_MESSAGE: Update stats
-      CI_COMMIT_AUTHOR: Github Stats
+      CI_COMMIT_AUTHOR: github-actions[bot]
+      CI_COMMIT_EMAIL: github-actions[bot]@users.noreply.github.com
       GITHUB_USER_ID: rafaelvp-db
       OUTPUT_PATH: ./stats
       ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
@@ -27,7 +28,7 @@ jobs:
     - name: Update stats
       run: |
         git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
-        git config --global user.email "username@users.noreply.github.com"
+        git config --global user.email "${{ env.CI_COMMIT_EMAIL }}"
         git add stats
         git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
-        git push origin master
+        git push origin ${{ github.head_ref || github.ref_name }}
