@@ -21,6 +21,7 @@ jobs:
         cache: 'pip' # caching pip dependencies
     - run: git pull
     - run: pip install -r requirements.txt
+    - run: mkdir -p ./stats
     - run: python github_stats/scrape.py
 
     # Commit and push all changed files.
