@@ -1,5 +1,6 @@
 from github import Github
 import os
+import json
 
 
 def get_repos(github_user: str):
@@ -11,23 +12,29 @@ def get_repos(github_user: str):
 
     return repos
 
+
 def get_repo_statistics(
     repos,
-    metrics = ["views", "clones"]
+    metrics = ["views", "clones"],
+    limit = None
 ):
     
     result_views = []
     result_clones = []
+    if limit:
+        target_repo_list = repos[:limit]
+    else:
+        target_repo_list = repos
 
-    for repo in repos:
+    for repo in target_repo_list:
         if "views" in metrics:
-            views = repo.get_views_traffic(per = "day")
+            views = repo.get_views_traffic(per = "week")
             list_views = [
                 {
                     "repo": repo.name,
                     "uniques": view.uniques,
                     "count": view.count,
-                    "timestamp": view.timestamp
+                    "timestamp": view.timestamp.strftime("%Y-%m-%d")
                 }
                 for view in views["views"]
             ]
@@ -35,13 +42,13 @@ def get_repo_statistics(
         result_views.extend(list_views)
 
         if "clones" in metrics:
-            clones = repo.get_clones_traffic(per = "day")
+            clones = repo.get_clones_traffic(per = "week")
             list_clones = [
                 {
                     "repo": repo.name,
                     "uniques": clone.uniques,
                     "count": clone.count,
-                    "timestamp": clone.timestamp
+                    "timestamp": clone.timestamp.strftime("%Y-%m-%d")
                 }
                 for clone in clones["clones"]
             ]
@@ -57,9 +64,9 @@ def save_output(
     ):
     if len(result_views) > 0:
         with open(f"{output_path}/views.json", "w") as file:
-            file.write(str(result_views))
+            file.write(json.dumps(result_views, indent = 4))
         with open(f"{output_path}/clones.json", "w") as file:
-            file.write(str(result_clones))
+            file.write(json.dumps(result_clones, indent = 4))
 
 
 if __name__ == "__main__":
