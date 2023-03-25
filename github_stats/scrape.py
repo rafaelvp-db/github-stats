@@ -63,9 +63,9 @@ def save_output(
         output_path = "/tmp"
     ):
     if len(result_views) > 0:
-        with open(f"{output_path}/views.json", "w") as file:
+        with open(f"{output_path}/views.json", "w+") as file:
             file.write(json.dumps(result_views, indent = 4))
-        with open(f"{output_path}/clones.json", "w") as file:
+        with open(f"{output_path}/clones.json", "w+") as file:
             file.write(json.dumps(result_clones, indent = 4))
 
 def main():
