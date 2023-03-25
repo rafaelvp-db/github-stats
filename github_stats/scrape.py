@@ -66,9 +66,9 @@ def save_output(
 
     date_suffix = datetime.now().strftime("%Y-%m-%d")
     if len(result_views) > 0:
-        with open(f"{output_path}/views_{date_suffix}.json", "a+") as file:
+        with open(f"{output_path}/views.json", "a+") as file:
             file.write(json.dumps(result_views, indent = 4))
-        with open(f"{output_path}/clones_{date_suffix}.json", "a+") as file:
+        with open(f"{output_path}/clones.json", "a+") as file:
             file.write(json.dumps(result_clones, indent = 4))
 
 def main():
