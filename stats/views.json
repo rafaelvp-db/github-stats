@@ -84,6 +84,12 @@
         "timestamp": "2023-03-13"
     },
     {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-03-20"
+    },
+    {
         "repo": "hf-finetune",
         "uniques": 1,
         "count": 19,
