@@ -32,4 +32,4 @@ jobs:
         git config --global user.email "${{ env.CI_COMMIT_EMAIL }}"
         git add stats
         git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
-        git push origin ${{ github.head_ref || github.ref_name }}
+        git push origin master
