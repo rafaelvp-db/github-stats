@@ -68,9 +68,7 @@ def save_output(
         with open(f"{output_path}/clones.json", "w") as file:
             file.write(json.dumps(result_clones, indent = 4))
 
-
-if __name__ == "__main__":
-
+def main():
     user_id = os.environ["GITHUB_USER_ID"]
     output_path = os.environ["OUTPUT_PATH"]
 
@@ -81,3 +79,6 @@ if __name__ == "__main__":
         result_clones = clone_stats,
         output_path = output_path
     )
+
+if __name__ == "__main__":
+    main()

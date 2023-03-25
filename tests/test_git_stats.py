@@ -35,5 +35,9 @@ def test_write_stats(stats):
     assert len(output_files) > 0
 
 
+def test_main():
+    scrape.main()
+
+
 
 
