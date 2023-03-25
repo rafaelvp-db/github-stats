@@ -5,7 +5,7 @@ import json
 
 def get_repos(github_user: str):
 
-    access_token = os.environ["GITHUB_ACCESS_TOKEN"]
+    access_token = os.environ["ACCESS_TOKEN"]
     g = Github(access_token)
     user = g.get_user(login="rafaelvp-db")
     repos = user.get_repos()

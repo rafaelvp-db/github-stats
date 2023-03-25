@@ -13,6 +13,7 @@ jobs:
       CI_COMMIT_AUTHOR: Github Stats
       GITHUB_USER_ID: rafaelvp-db
       OUTPUT_PATH: ./stats
+      ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
     steps:
     - uses: actions/checkout@v3
     - uses: actions/setup-python@v4
