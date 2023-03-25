@@ -1,6 +1,7 @@
 from github import Github
 import os
 import json
+from datetime import datetime
 
 
 def get_repos(github_user: str):
@@ -62,10 +63,12 @@ def save_output(
         result_clones = [],
         output_path = "/tmp"
     ):
+
+    date_suffix = datetime.now().strftime("%Y-%m-%d")
     if len(result_views) > 0:
-        with open(f"{output_path}/views.json", "w+") as file:
+        with open(f"{output_path}/views_{date_suffix}.json", "w+") as file:
             file.write(json.dumps(result_views, indent = 4))
-        with open(f"{output_path}/clones.json", "w+") as file:
+        with open(f"{output_path}/clones_{date_suffix}.json", "w+") as file:
             file.write(json.dumps(result_clones, indent = 4))
 
 def main():
