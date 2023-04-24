@@ -1030,4 +1030,167 @@
         "count": 4,
         "timestamp": "2023-04-17"
     }
+][
+    {
+        "repo": "confluent-databricks-streaming-nlp",
+        "uniques": 1,
+        "count": 6,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "databricks-end-to-end-realtime-webhooks",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-04-10"
+    },
+    {
+        "repo": "databricks-end-to-end-realtime-webhooks",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 3,
+        "count": 7,
+        "timestamp": "2023-04-10"
+    },
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 1,
+        "count": 12,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "databricks-feature-store",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-04-10"
+    },
+    {
+        "repo": "databricks-feature-store",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "databricks-insurance-qa-nlp",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-10"
+    },
+    {
+        "repo": "databricks-insurance-qa-nlp",
+        "uniques": 2,
+        "count": 6,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "dbx-insurance-qa-hugging-face",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-04-10"
+    },
+    {
+        "repo": "dbx-insurance-qa-hugging-face",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "diffusers-rust",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "dolly",
+        "uniques": 1,
+        "count": 9,
+        "timestamp": "2023-04-10"
+    },
+    {
+        "repo": "dolly",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 36,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "hf-finetune",
+        "uniques": 3,
+        "count": 13,
+        "timestamp": "2023-04-10"
+    },
+    {
+        "repo": "hf-finetune",
+        "uniques": 6,
+        "count": 52,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "mlflow-getting-started",
+        "uniques": 5,
+        "count": 5,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "mlops-world-end-to-end",
+        "uniques": 1,
+        "count": 8,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "movie-recommender",
+        "uniques": 6,
+        "count": 56,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "picaisso",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "pytorch-lightning-horovod-petastorm",
+        "uniques": 1,
+        "count": 5,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "segmentation_models.pytorch",
+        "uniques": 1,
+        "count": 7,
+        "timestamp": "2023-04-10"
+    },
+    {
+        "repo": "segmentation_models.pytorch",
+        "uniques": 1,
+        "count": 3,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "word2vec-get-started",
+        "uniques": 1,
+        "count": 20,
+        "timestamp": "2023-04-10"
+    },
+    {
+        "repo": "word2vec-get-started",
+        "uniques": 1,
+        "count": 4,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "yolov5",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-17"
+    }
 ]
