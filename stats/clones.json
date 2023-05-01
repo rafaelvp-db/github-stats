@@ -1853,4 +1853,245 @@
         "count": 2,
         "timestamp": "2023-04-10"
     }
+][
+    {
+        "repo": "Auto-PyTorch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-24"
+    },
+    {
+        "repo": "bryckster",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "bryckster",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-04-24"
+    },
+    {
+        "repo": "databricks-demand-forecasting",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "databricks-distributed-deep-learning",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-24"
+    },
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-24"
+    },
+    {
+        "repo": "databricks-insurance-qa-nlp",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "dbsql-python-run-saved-query",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-24"
+    },
+    {
+        "repo": "dbx",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-24"
+    },
+    {
+        "repo": "dbx-insurance-qa-hugging-face",
+        "uniques": 2,
+        "count": 6,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "dbx-insurance-qa-hugging-face",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-24"
+    },
+    {
+        "repo": "diffusers",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "diffusers-rust",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "distributed-forecasting",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-24"
+    },
+    {
+        "repo": "FinQA",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-24"
+    },
+    {
+        "repo": "forecasting-playground",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-24"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 6,
+        "count": 16,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 5,
+        "count": 7,
+        "timestamp": "2023-04-24"
+    },
+    {
+        "repo": "hf-finetune",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "hf-finetune",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-04-24"
+    },
+    {
+        "repo": "HuggingFace-on-Azure-Databricks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "jupyter-to-databricks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-24"
+    },
+    {
+        "repo": "mlflow",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "mlflow-getting-started",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "mlops-world-end-to-end",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-24"
+    },
+    {
+        "repo": "movie-recommender",
+        "uniques": 20,
+        "count": 33,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "movie-recommender",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-04-24"
+    },
+    {
+        "repo": "nni",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "object-detection-at-scale",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-24"
+    },
+    {
+        "repo": "picaisso",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "pyexample",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-24"
+    },
+    {
+        "repo": "pytorch-lightning-horovod-petastorm",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "pytorch-lightning-horovod-petastorm",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-24"
+    },
+    {
+        "repo": "sagemaker-huggingface-inference-toolkit",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "spark-nlp-hugging-face",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-24"
+    },
+    {
+        "repo": "spark-tuning",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "sparktorch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-24"
+    },
+    {
+        "repo": "torchrec",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-17"
+    },
+    {
+        "repo": "Transformers4Rec",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-24"
+    },
+    {
+        "repo": "zenml-playground",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-04-24"
+    }
 ]
