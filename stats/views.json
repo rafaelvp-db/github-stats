@@ -1984,4 +1984,173 @@
         "count": 40,
         "timestamp": "2023-05-22"
     }
+][
+    {
+        "repo": "covid-prophet-dbx",
+        "uniques": 2,
+        "count": 30,
+        "timestamp": "2023-05-22"
+    },
+    {
+        "repo": "covid-prophet-dbx",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-05-29"
+    },
+    {
+        "repo": "databricks-cicd-workshop-terraform",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-05-22"
+    },
+    {
+        "repo": "databricks-end-to-end-realtime-webhooks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-05-22"
+    },
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-05-22"
+    },
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 2,
+        "count": 8,
+        "timestamp": "2023-05-29"
+    },
+    {
+        "repo": "databricks-feature-store",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-05-22"
+    },
+    {
+        "repo": "databricks-feature-store",
+        "uniques": 2,
+        "count": 11,
+        "timestamp": "2023-05-29"
+    },
+    {
+        "repo": "databricks-insurance-qa-nlp",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-05-22"
+    },
+    {
+        "repo": "databricks-insurance-qa-nlp",
+        "uniques": 2,
+        "count": 12,
+        "timestamp": "2023-05-29"
+    },
+    {
+        "repo": "databricks-sdk-py",
+        "uniques": 2,
+        "count": 5,
+        "timestamp": "2023-05-22"
+    },
+    {
+        "repo": "dbx-insurance-qa-hugging-face",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-05-22"
+    },
+    {
+        "repo": "dbx-insurance-qa-hugging-face",
+        "uniques": 1,
+        "count": 11,
+        "timestamp": "2023-05-29"
+    },
+    {
+        "repo": "delta-auto-loader-examples",
+        "uniques": 2,
+        "count": 85,
+        "timestamp": "2023-05-22"
+    },
+    {
+        "repo": "dialogpt-larry",
+        "uniques": 1,
+        "count": 6,
+        "timestamp": "2023-05-22"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 7,
+        "timestamp": "2023-05-22"
+    },
+    {
+        "repo": "hf-finetune",
+        "uniques": 2,
+        "count": 22,
+        "timestamp": "2023-05-22"
+    },
+    {
+        "repo": "hf-finetune",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-05-29"
+    },
+    {
+        "repo": "jupyter-to-databricks",
+        "uniques": 1,
+        "count": 6,
+        "timestamp": "2023-05-22"
+    },
+    {
+        "repo": "jupyter-to-databricks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-05-29"
+    },
+    {
+        "repo": "langchain-sql-databricks",
+        "uniques": 5,
+        "count": 142,
+        "timestamp": "2023-05-22"
+    },
+    {
+        "repo": "langchain-sql-databricks",
+        "uniques": 12,
+        "count": 98,
+        "timestamp": "2023-05-29"
+    },
+    {
+        "repo": "mlflow-getting-started",
+        "uniques": 4,
+        "count": 21,
+        "timestamp": "2023-05-22"
+    },
+    {
+        "repo": "mlflow-getting-started",
+        "uniques": 1,
+        "count": 3,
+        "timestamp": "2023-05-29"
+    },
+    {
+        "repo": "movie-recommender",
+        "uniques": 1,
+        "count": 3,
+        "timestamp": "2023-05-22"
+    },
+    {
+        "repo": "object-detection-at-scale",
+        "uniques": 1,
+        "count": 23,
+        "timestamp": "2023-05-29"
+    },
+    {
+        "repo": "pytorch-lightning-horovod-petastorm",
+        "uniques": 1,
+        "count": 40,
+        "timestamp": "2023-05-22"
+    },
+    {
+        "repo": "pytorch-lightning-horovod-petastorm",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-05-29"
+    }
 ]
