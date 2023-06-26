@@ -2527,4 +2527,209 @@
         "count": 4,
         "timestamp": "2023-06-12"
     }
+][
+    {
+        "repo": "asr-databricks",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-06-12"
+    },
+    {
+        "repo": "covid-prophet-dbx",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-06-12"
+    },
+    {
+        "repo": "databricks-demand-forecasting",
+        "uniques": 1,
+        "count": 5,
+        "timestamp": "2023-06-19"
+    },
+    {
+        "repo": "databricks-end-to-end-realtime-webhooks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-06-12"
+    },
+    {
+        "repo": "databricks-end-to-end-realtime-webhooks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-06-19"
+    },
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 4,
+        "count": 33,
+        "timestamp": "2023-06-19"
+    },
+    {
+        "repo": "databricks-feature-store",
+        "uniques": 1,
+        "count": 5,
+        "timestamp": "2023-06-19"
+    },
+    {
+        "repo": "databricks-insurance-qa-nlp",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-06-12"
+    },
+    {
+        "repo": "databricks-insurance-qa-nlp",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-06-19"
+    },
+    {
+        "repo": "databricks-ml-workshop",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-06-19"
+    },
+    {
+        "repo": "dbx-insurance-qa-hugging-face",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-06-19"
+    },
+    {
+        "repo": "delta-auto-loader-examples",
+        "uniques": 1,
+        "count": 10,
+        "timestamp": "2023-06-19"
+    },
+    {
+        "repo": "delta-live-tables-notebooks",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-06-12"
+    },
+    {
+        "repo": "dialogpt-larry",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-06-19"
+    },
+    {
+        "repo": "falcontune",
+        "uniques": 1,
+        "count": 3,
+        "timestamp": "2023-06-12"
+    },
+    {
+        "repo": "FinQA",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-06-19"
+    },
+    {
+        "repo": "flying-llms-langchain",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-06-12"
+    },
+    {
+        "repo": "flying-llms-langchain",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-06-19"
+    },
+    {
+        "repo": "forecasting-playground",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-06-12"
+    },
+    {
+        "repo": "hf-finetune",
+        "uniques": 1,
+        "count": 27,
+        "timestamp": "2023-06-12"
+    },
+    {
+        "repo": "hf-finetune",
+        "uniques": 3,
+        "count": 13,
+        "timestamp": "2023-06-19"
+    },
+    {
+        "repo": "jupyter-to-databricks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-06-19"
+    },
+    {
+        "repo": "langchain-sql-databricks",
+        "uniques": 27,
+        "count": 252,
+        "timestamp": "2023-06-12"
+    },
+    {
+        "repo": "langchain-sql-databricks",
+        "uniques": 31,
+        "count": 323,
+        "timestamp": "2023-06-19"
+    },
+    {
+        "repo": "lightning-flash",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-06-12"
+    },
+    {
+        "repo": "ml-on-databricks-2023-03-27",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-06-19"
+    },
+    {
+        "repo": "mlflow",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-06-19"
+    },
+    {
+        "repo": "mlflow-getting-started",
+        "uniques": 1,
+        "count": 5,
+        "timestamp": "2023-06-12"
+    },
+    {
+        "repo": "mlflow-getting-started",
+        "uniques": 2,
+        "count": 9,
+        "timestamp": "2023-06-19"
+    },
+    {
+        "repo": "movie-recommender",
+        "uniques": 1,
+        "count": 5,
+        "timestamp": "2023-06-12"
+    },
+    {
+        "repo": "movie-recommender",
+        "uniques": 1,
+        "count": 6,
+        "timestamp": "2023-06-19"
+    },
+    {
+        "repo": "mpttune",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-06-12"
+    },
+    {
+        "repo": "pytorch-lightning-horovod-petastorm",
+        "uniques": 1,
+        "count": 4,
+        "timestamp": "2023-06-12"
+    },
+    {
+        "repo": "pytorch-lightning-horovod-petastorm",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-06-19"
+    }
 ]
