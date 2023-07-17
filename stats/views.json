@@ -3172,4 +3172,149 @@
         "count": 1,
         "timestamp": "2023-06-26"
     }
+][
+    {
+        "repo": "autodoc",
+        "uniques": 2,
+        "count": 17,
+        "timestamp": "2023-07-03"
+    },
+    {
+        "repo": "autodoc",
+        "uniques": 1,
+        "count": 9,
+        "timestamp": "2023-07-10"
+    },
+    {
+        "repo": "databricks-end-to-end-realtime-webhooks",
+        "uniques": 4,
+        "count": 7,
+        "timestamp": "2023-07-10"
+    },
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 5,
+        "count": 69,
+        "timestamp": "2023-07-03"
+    },
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 4,
+        "count": 48,
+        "timestamp": "2023-07-10"
+    },
+    {
+        "repo": "dbsql-python-run-saved-query",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-03"
+    },
+    {
+        "repo": "dbx-insurance-qa-hugging-face",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-03"
+    },
+    {
+        "repo": "dbx-insurance-qa-hugging-face",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-10"
+    },
+    {
+        "repo": "delta-auto-loader-examples",
+        "uniques": 1,
+        "count": 21,
+        "timestamp": "2023-07-03"
+    },
+    {
+        "repo": "delta-auto-loader-examples",
+        "uniques": 2,
+        "count": 43,
+        "timestamp": "2023-07-10"
+    },
+    {
+        "repo": "dialogpt-larry",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2023-07-03"
+    },
+    {
+        "repo": "dialogpt-larry",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-10"
+    },
+    {
+        "repo": "document-pdf-qa",
+        "uniques": 1,
+        "count": 9,
+        "timestamp": "2023-07-10"
+    },
+    {
+        "repo": "falcontune",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-03"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-10"
+    },
+    {
+        "repo": "jupyter-to-databricks",
+        "uniques": 2,
+        "count": 7,
+        "timestamp": "2023-07-10"
+    },
+    {
+        "repo": "langchain-sql-databricks",
+        "uniques": 23,
+        "count": 153,
+        "timestamp": "2023-07-03"
+    },
+    {
+        "repo": "langchain-sql-databricks",
+        "uniques": 26,
+        "count": 152,
+        "timestamp": "2023-07-10"
+    },
+    {
+        "repo": "mlflow-getting-started",
+        "uniques": 1,
+        "count": 6,
+        "timestamp": "2023-07-03"
+    },
+    {
+        "repo": "mlflow-getting-started",
+        "uniques": 1,
+        "count": 10,
+        "timestamp": "2023-07-10"
+    },
+    {
+        "repo": "movie-recommender",
+        "uniques": 2,
+        "count": 5,
+        "timestamp": "2023-07-03"
+    },
+    {
+        "repo": "mpttune",
+        "uniques": 1,
+        "count": 9,
+        "timestamp": "2023-07-03"
+    },
+    {
+        "repo": "object-detection-at-scale",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-07-03"
+    },
+    {
+        "repo": "pytorch-lightning-horovod-petastorm",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-07-10"
+    }
 ]
