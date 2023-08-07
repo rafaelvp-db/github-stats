@@ -3583,4 +3583,167 @@
         "count": 34,
         "timestamp": "2023-07-24"
     }
+][
+    {
+        "repo": "autodoc",
+        "uniques": 1,
+        "count": 9,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "databricks-demand-forecasting",
+        "uniques": 1,
+        "count": 6,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 5,
+        "count": 8,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 3,
+        "count": 12,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "databricks-insurance-qa-nlp",
+        "uniques": 1,
+        "count": 5,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "databricks-mlops-lendingclub",
+        "uniques": 1,
+        "count": 3,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "db-ancient-code-translation",
+        "uniques": 15,
+        "count": 284,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "db-ancient-code-translation",
+        "uniques": 4,
+        "count": 28,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "dbx-insurance-qa-hugging-face",
+        "uniques": 1,
+        "count": 3,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "delta-auto-loader-examples",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "dialogpt-larry",
+        "uniques": 2,
+        "count": 22,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "dialogpt-larry",
+        "uniques": 1,
+        "count": 16,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "document-pdf-qa",
+        "uniques": 1,
+        "count": 14,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "falcontune",
+        "uniques": 1,
+        "count": 6,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "forecasting-playground",
+        "uniques": 1,
+        "count": 6,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "hf-finetune",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "hf-finetune",
+        "uniques": 4,
+        "count": 55,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "langchain-sql-databricks",
+        "uniques": 27,
+        "count": 167,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "langchain-sql-databricks",
+        "uniques": 36,
+        "count": 268,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "mlflow",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "movie-recommender",
+        "uniques": 2,
+        "count": 21,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "movie-recommender",
+        "uniques": 2,
+        "count": 10,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "mpttune",
+        "uniques": 1,
+        "count": 6,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "nlp-coding-session",
+        "uniques": 1,
+        "count": 9,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "setfit-few-shot-specificity",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "Transformers-Tutorials",
+        "uniques": 1,
+        "count": 3,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "workflows-model-serving-workshop",
+        "uniques": 2,
+        "count": 34,
+        "timestamp": "2023-07-24"
+    }
 ]
