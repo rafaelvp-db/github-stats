@@ -4072,4 +4072,179 @@
         "count": 2,
         "timestamp": "2023-08-14"
     }
+][
+    {
+        "repo": "autocomplete",
+        "uniques": 1,
+        "count": 12,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "databricks-cicd-workshop-terraform",
+        "uniques": 4,
+        "count": 62,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "databricks-end-to-end-realtime-webhooks",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-08-14"
+    },
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 9,
+        "count": 71,
+        "timestamp": "2023-08-14"
+    },
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 10,
+        "count": 40,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "databricks-feature-store",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "databricks-insurance-qa-nlp",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-14"
+    },
+    {
+        "repo": "databricks-insurance-qa-nlp",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "databricks-llm-fine-tuning",
+        "uniques": 1,
+        "count": 10,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "databricks-llm-prompt-engineering",
+        "uniques": 32,
+        "count": 301,
+        "timestamp": "2023-08-14"
+    },
+    {
+        "repo": "databricks-llm-prompt-engineering",
+        "uniques": 26,
+        "count": 195,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "db-ancient-code-translation",
+        "uniques": 3,
+        "count": 36,
+        "timestamp": "2023-08-14"
+    },
+    {
+        "repo": "db-ancient-code-translation",
+        "uniques": 1,
+        "count": 13,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "dbx-insurance-qa-hugging-face",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-14"
+    },
+    {
+        "repo": "dialogpt-larry",
+        "uniques": 1,
+        "count": 3,
+        "timestamp": "2023-08-14"
+    },
+    {
+        "repo": "dialogpt-larry",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "document-pdf-qa",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-14"
+    },
+    {
+        "repo": "fastapi-webapp-react",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "forecasting-playground",
+        "uniques": 1,
+        "count": 11,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 5,
+        "timestamp": "2023-08-14"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "hf-finetune",
+        "uniques": 2,
+        "count": 14,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "jsonformer",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-08-14"
+    },
+    {
+        "repo": "jupyter-to-databricks",
+        "uniques": 1,
+        "count": 14,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "langchain-sql-databricks",
+        "uniques": 23,
+        "count": 225,
+        "timestamp": "2023-08-14"
+    },
+    {
+        "repo": "langchain-sql-databricks",
+        "uniques": 17,
+        "count": 112,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "movie-recommender",
+        "uniques": 2,
+        "count": 10,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "pytorch-lightning-horovod-petastorm",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-08-14"
+    },
+    {
+        "repo": "react-typeahead",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-08-21"
+    }
 ]
