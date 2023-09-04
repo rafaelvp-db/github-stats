@@ -4247,4 +4247,185 @@
         "count": 2,
         "timestamp": "2023-08-21"
     }
+][
+    {
+        "repo": "autocomplete",
+        "uniques": 1,
+        "count": 12,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "databricks-cicd-workshop-terraform",
+        "uniques": 4,
+        "count": 62,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "databricks-cicd-workshop-terraform",
+        "uniques": 3,
+        "count": 51,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 10,
+        "count": 40,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 3,
+        "count": 15,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "databricks-feature-store",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "Databricks-GPU-Serving-Examples",
+        "uniques": 1,
+        "count": 15,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "databricks-insurance-qa-nlp",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "databricks-llm-fine-tuning",
+        "uniques": 1,
+        "count": 10,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "databricks-llm-fine-tuning",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "databricks-llm-prompt-engineering",
+        "uniques": 26,
+        "count": 195,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "databricks-llm-prompt-engineering",
+        "uniques": 35,
+        "count": 369,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "db-ancient-code-translation",
+        "uniques": 1,
+        "count": 13,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "db-ancient-code-translation",
+        "uniques": 6,
+        "count": 47,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "dialogpt-larry",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "dialogpt-larry",
+        "uniques": 3,
+        "count": 8,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "fastapi-webapp-react",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "forecasting-playground",
+        "uniques": 1,
+        "count": 11,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "hf-finetune",
+        "uniques": 2,
+        "count": 14,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "hf-finetune",
+        "uniques": 1,
+        "count": 8,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "jupyter-to-databricks",
+        "uniques": 1,
+        "count": 14,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "jupyter-to-databricks",
+        "uniques": 2,
+        "count": 25,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "langchain-sql-databricks",
+        "uniques": 17,
+        "count": 112,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "langchain-sql-databricks",
+        "uniques": 15,
+        "count": 97,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "mlops-world-end-to-end",
+        "uniques": 1,
+        "count": 3,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "movie-recommender",
+        "uniques": 2,
+        "count": 10,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "movie-recommender",
+        "uniques": 1,
+        "count": 21,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "pytorch-lightning-horovod-petastorm",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "react-typeahead",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-08-21"
+    }
 ]
