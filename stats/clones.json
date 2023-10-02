@@ -10173,4 +10173,413 @@
         "count": 15,
         "timestamp": "2023-09-11"
     }
+][
+    {
+        "repo": "chatbot-playground",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "confluent-databricks-streaming-nlp",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "covid-prophet-dbx",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "databricks-cicd-workshop-terraform",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "databricks-cicd-workshop-terraform",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "databricks-demand-forecasting",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "databricks-demand-forecasting",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "databricks-end-to-end-realtime-webhooks",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "databricks-end-to-end-realtime-webhooks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "databricks-feature-store",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "Databricks-GPU-Serving-Examples",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "databricks-insurance-qa-nlp",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "databricks-llm-prompt-engineering",
+        "uniques": 18,
+        "count": 53,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "databricks-llm-prompt-engineering",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "databricks-ml-workshop",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "databricks-mlops-lendingclub",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "databricks-mlops-lendingclub",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "databricks-sdk-py",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "databricks_feature_store",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "databricks_feature_store",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "db-ancient-code-translation",
+        "uniques": 4,
+        "count": 4,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "db-ancient-code-translation",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "dbsql-python-run-saved-query",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "dbx-insurance-qa-hugging-face",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "dbx-insurance-qa-hugging-face",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "delta-auto-loader-examples",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "dialogpt-larry",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "diffusers",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "diffusers-rust",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "dioxus",
+        "uniques": 4,
+        "count": 6,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "distributed-forecasting",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "distributed-forecasting",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "doccano",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "document-pdf-qa",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "document-pdf-qa",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "e2e-mlops",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "flying-llms-langchain",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "flying-llms-langchain",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 6,
+        "count": 7,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 6,
+        "count": 7,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "jsonformer",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "jsonformer",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "jupyter-to-databricks",
+        "uniques": 1,
+        "count": 6,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "jupyter-to-databricks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "larry",
+        "uniques": 5,
+        "count": 8,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "larry",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "makina-sphinx-theme",
+        "uniques": 3,
+        "count": 5,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "makina-sphinx-theme",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "mlflow-helm-chart",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "mlops-world-end-to-end",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "mlops-world-end-to-end",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "mosaic",
+        "uniques": 1,
+        "count": 6,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "movie-recommender",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "nlp-coding-session",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "object-detection-at-scale",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "pyexample",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "python-package-template",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "pytorch-lightning-horovod-petastorm",
+        "uniques": 2,
+        "count": 5,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "react-typeahead",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "setfit-few-shot-specificity",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "setfit-few-shot-specificity",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "spark-tuning",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "spark-tuning",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "sphinx_rtd_theme",
+        "uniques": 4,
+        "count": 5,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "vscode-extension-samples",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "vscode-extension-samples",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "word2vec-get-started",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "workflows-model-serving-workshop",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-25"
+    }
 ]

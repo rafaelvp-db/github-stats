@@ -4923,4 +4923,197 @@
         "count": 7,
         "timestamp": "2023-09-18"
     }
+][
+    {
+        "repo": "databricks-end-to-end-realtime-webhooks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 3,
+        "count": 12,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "databricks-insurance-qa-nlp",
+        "uniques": 1,
+        "count": 3,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "databricks-insurance-qa-nlp",
+        "uniques": 1,
+        "count": 10,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "databricks-llm-prompt-engineering",
+        "uniques": 33,
+        "count": 230,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "databricks-llm-prompt-engineering",
+        "uniques": 31,
+        "count": 182,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "db-ancient-code-translation",
+        "uniques": 6,
+        "count": 49,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "db-ancient-code-translation",
+        "uniques": 4,
+        "count": 43,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "dbsql-python-run-saved-query",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "dbsql-python-run-saved-query",
+        "uniques": 1,
+        "count": 9,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "dbx-insurance-qa-hugging-face",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "dbx-insurance-qa-hugging-face",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "dialogpt-larry",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "dialogpt-larry",
+        "uniques": 3,
+        "count": 91,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "diffusers",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "dioxus",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "forecasting-playground",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "jupyter-to-databricks",
+        "uniques": 2,
+        "count": 8,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "langchain-sql-databricks",
+        "uniques": 18,
+        "count": 101,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "langchain-sql-databricks",
+        "uniques": 10,
+        "count": 101,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "larry",
+        "uniques": 1,
+        "count": 14,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "makina-sphinx-theme",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "movie-recommender",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "movie-recommender",
+        "uniques": 3,
+        "count": 15,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "pytorch-lightning-horovod-petastorm",
+        "uniques": 2,
+        "count": 4,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "pytorch-lightning-horovod-petastorm",
+        "uniques": 1,
+        "count": 4,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "sphinx_rtd_theme",
+        "uniques": 1,
+        "count": 22,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "sphinx_rtd_theme",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "word2vec-get-started",
+        "uniques": 1,
+        "count": 6,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "workflows-model-serving-workshop",
+        "uniques": 1,
+        "count": 7,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "workflows-model-serving-workshop",
+        "uniques": 1,
+        "count": 7,
+        "timestamp": "2023-09-25"
+    }
 ]
