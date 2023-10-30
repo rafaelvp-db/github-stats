@@ -5497,4 +5497,107 @@
         "count": 11,
         "timestamp": "2023-10-16"
     }
+][
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 6,
+        "count": 48,
+        "timestamp": "2023-10-16"
+    },
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 5,
+        "count": 28,
+        "timestamp": "2023-10-23"
+    },
+    {
+        "repo": "databricks-feature-store",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-23"
+    },
+    {
+        "repo": "databricks-llm-prompt-engineering",
+        "uniques": 21,
+        "count": 91,
+        "timestamp": "2023-10-16"
+    },
+    {
+        "repo": "databricks-llm-prompt-engineering",
+        "uniques": 40,
+        "count": 108,
+        "timestamp": "2023-10-23"
+    },
+    {
+        "repo": "db-ancient-code-translation",
+        "uniques": 4,
+        "count": 9,
+        "timestamp": "2023-10-16"
+    },
+    {
+        "repo": "db-ancient-code-translation",
+        "uniques": 4,
+        "count": 7,
+        "timestamp": "2023-10-23"
+    },
+    {
+        "repo": "dbsql-python-run-saved-query",
+        "uniques": 1,
+        "count": 16,
+        "timestamp": "2023-10-16"
+    },
+    {
+        "repo": "dialogpt-larry",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-16"
+    },
+    {
+        "repo": "distributed-forecasting",
+        "uniques": 1,
+        "count": 6,
+        "timestamp": "2023-10-23"
+    },
+    {
+        "repo": "jupyter-to-databricks",
+        "uniques": 1,
+        "count": 19,
+        "timestamp": "2023-10-16"
+    },
+    {
+        "repo": "langchain-sql-databricks",
+        "uniques": 16,
+        "count": 66,
+        "timestamp": "2023-10-16"
+    },
+    {
+        "repo": "langchain-sql-databricks",
+        "uniques": 15,
+        "count": 71,
+        "timestamp": "2023-10-23"
+    },
+    {
+        "repo": "movie-recommender",
+        "uniques": 3,
+        "count": 17,
+        "timestamp": "2023-10-23"
+    },
+    {
+        "repo": "nlp-coding-session",
+        "uniques": 1,
+        "count": 5,
+        "timestamp": "2023-10-23"
+    },
+    {
+        "repo": "word2vec-get-started",
+        "uniques": 1,
+        "count": 11,
+        "timestamp": "2023-10-16"
+    },
+    {
+        "repo": "word2vec-get-started",
+        "uniques": 2,
+        "count": 5,
+        "timestamp": "2023-10-23"
+    }
 ]
