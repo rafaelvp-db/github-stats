@@ -12761,4 +12761,221 @@
         "count": 1,
         "timestamp": "2023-11-13"
     }
+][
+    {
+        "repo": "bryckster",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-13"
+    },
+    {
+        "repo": "bryckster",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "databricks-demand-forecasting",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-13"
+    },
+    {
+        "repo": "databricks-end-to-end-realtime-webhooks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-13"
+    },
+    {
+        "repo": "databricks-end-to-end-realtime-webhooks",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "databricks-feature-store",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "databricks-insurance-qa-nlp",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-13"
+    },
+    {
+        "repo": "databricks-insurance-qa-nlp",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "databricks-llm-prompt-engineering",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-11-13"
+    },
+    {
+        "repo": "databricks-llm-prompt-engineering",
+        "uniques": 2,
+        "count": 4,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "databricks-sdk-py",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "db-ancient-code-translation",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-11-13"
+    },
+    {
+        "repo": "db-ancient-code-translation",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 5,
+        "count": 6,
+        "timestamp": "2023-11-13"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 10,
+        "count": 11,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "hf-finetune",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2023-11-13"
+    },
+    {
+        "repo": "hf-finetune",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "jupyter-to-databricks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "langchain-sql-databricks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "larry",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "ml-on-databricks-2023-03-27",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-13"
+    },
+    {
+        "repo": "ml-on-databricks-2023-03-27",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "mlflow-getting-started",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-11-13"
+    },
+    {
+        "repo": "mlflow-getting-started",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "mlflow-helm-chart",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "mlops-world-end-to-end",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "object-detection-at-scale",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-13"
+    },
+    {
+        "repo": "pl_YOLO",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-13"
+    },
+    {
+        "repo": "pytorch-lightning-bolts",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-13"
+    },
+    {
+        "repo": "pytorch-lightning-horovod-petastorm",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "rare-event-inspection",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-13"
+    },
+    {
+        "repo": "segmentation_models.pytorch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-13"
+    },
+    {
+        "repo": "simple_image_annotator",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-13"
+    },
+    {
+        "repo": "ultralytics",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-13"
+    },
+    {
+        "repo": "zenml-playground",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-13"
+    }
 ]
