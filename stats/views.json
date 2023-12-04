@@ -6078,4 +6078,101 @@
         "count": 8,
         "timestamp": "2023-11-20"
     }
+][
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 5,
+        "count": 16,
+        "timestamp": "2023-11-27"
+    },
+    {
+        "repo": "databricks-llm-prompt-engineering",
+        "uniques": 18,
+        "count": 117,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "databricks-llm-prompt-engineering",
+        "uniques": 27,
+        "count": 80,
+        "timestamp": "2023-11-27"
+    },
+    {
+        "repo": "db-ancient-code-translation",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "db-ancient-code-translation",
+        "uniques": 8,
+        "count": 92,
+        "timestamp": "2023-11-27"
+    },
+    {
+        "repo": "delta-auto-loader-examples",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "falcontune",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-27"
+    },
+    {
+        "repo": "gradio",
+        "uniques": 1,
+        "count": 4,
+        "timestamp": "2023-11-27"
+    },
+    {
+        "repo": "hf-finetune",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-11-27"
+    },
+    {
+        "repo": "langchain-sql-databricks",
+        "uniques": 10,
+        "count": 59,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "langchain-sql-databricks",
+        "uniques": 8,
+        "count": 36,
+        "timestamp": "2023-11-27"
+    },
+    {
+        "repo": "mlflow-getting-started",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "mlflow-getting-started",
+        "uniques": 1,
+        "count": 48,
+        "timestamp": "2023-11-27"
+    },
+    {
+        "repo": "pytorch-lightning-horovod-petastorm",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "word2vec-get-started",
+        "uniques": 1,
+        "count": 8,
+        "timestamp": "2023-11-20"
+    }
 ]
