@@ -6175,4 +6175,101 @@
         "count": 8,
         "timestamp": "2023-11-20"
     }
+][
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 5,
+        "count": 16,
+        "timestamp": "2023-11-27"
+    },
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 10,
+        "count": 32,
+        "timestamp": "2023-12-04"
+    },
+    {
+        "repo": "databricks-llm-prompt-engineering",
+        "uniques": 27,
+        "count": 80,
+        "timestamp": "2023-11-27"
+    },
+    {
+        "repo": "databricks-llm-prompt-engineering",
+        "uniques": 26,
+        "count": 120,
+        "timestamp": "2023-12-04"
+    },
+    {
+        "repo": "databricks-llm-prompt-engineering",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "db-ancient-code-translation",
+        "uniques": 8,
+        "count": 92,
+        "timestamp": "2023-11-27"
+    },
+    {
+        "repo": "db-ancient-code-translation",
+        "uniques": 3,
+        "count": 4,
+        "timestamp": "2023-12-04"
+    },
+    {
+        "repo": "delta-auto-loader-examples",
+        "uniques": 3,
+        "count": 47,
+        "timestamp": "2023-12-04"
+    },
+    {
+        "repo": "falcontune",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-27"
+    },
+    {
+        "repo": "gradio",
+        "uniques": 1,
+        "count": 4,
+        "timestamp": "2023-11-27"
+    },
+    {
+        "repo": "hf-finetune",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-11-27"
+    },
+    {
+        "repo": "langchain-sql-databricks",
+        "uniques": 8,
+        "count": 36,
+        "timestamp": "2023-11-27"
+    },
+    {
+        "repo": "langchain-sql-databricks",
+        "uniques": 11,
+        "count": 42,
+        "timestamp": "2023-12-04"
+    },
+    {
+        "repo": "mlflow-getting-started",
+        "uniques": 1,
+        "count": 48,
+        "timestamp": "2023-11-27"
+    },
+    {
+        "repo": "mlflow-getting-started",
+        "uniques": 2,
+        "count": 7,
+        "timestamp": "2023-12-04"
+    },
+    {
+        "repo": "object-detection-at-scale",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-12-04"
+    }
 ]
