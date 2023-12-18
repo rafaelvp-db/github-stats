@@ -6272,4 +6272,89 @@
         "count": 2,
         "timestamp": "2023-12-04"
     }
+][
+    {
+        "repo": "confluent-databricks-streaming-nlp",
+        "uniques": 2,
+        "count": 17,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "databricks-end-to-end-realtime-webhooks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 10,
+        "count": 32,
+        "timestamp": "2023-12-04"
+    },
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 2,
+        "count": 95,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "databricks-llm-prompt-engineering",
+        "uniques": 26,
+        "count": 120,
+        "timestamp": "2023-12-04"
+    },
+    {
+        "repo": "databricks-llm-prompt-engineering",
+        "uniques": 20,
+        "count": 102,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "db-ancient-code-translation",
+        "uniques": 3,
+        "count": 4,
+        "timestamp": "2023-12-04"
+    },
+    {
+        "repo": "db-ancient-code-translation",
+        "uniques": 2,
+        "count": 22,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "delta-auto-loader-examples",
+        "uniques": 3,
+        "count": 47,
+        "timestamp": "2023-12-04"
+    },
+    {
+        "repo": "hf-finetune",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "langchain-sql-databricks",
+        "uniques": 11,
+        "count": 42,
+        "timestamp": "2023-12-04"
+    },
+    {
+        "repo": "langchain-sql-databricks",
+        "uniques": 7,
+        "count": 55,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "mlflow-getting-started",
+        "uniques": 2,
+        "count": 7,
+        "timestamp": "2023-12-04"
+    },
+    {
+        "repo": "object-detection-at-scale",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-12-04"
+    }
 ]
