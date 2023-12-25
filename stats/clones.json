@@ -14013,4 +14013,215 @@
         "count": 2,
         "timestamp": "2023-12-04"
     }
+][
+    {
+        "repo": "automl-computer-vision",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "bryckster",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "chatbot-playground",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "covid-prophet-dbx",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "databricks-cicd-workshop-terraform",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "databricks-distributed-deep-learning",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "databricks-end-to-end-realtime-webhooks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "Databricks-GPU-Serving-Examples",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "databricks-insurance-qa-nlp",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "databricks-llm-prompt-engineering",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "databricks-llm-prompt-engineering",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "databricks-mlops-lendingclub",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "db-ancient-code-translation",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "dbsql-python-run-saved-query",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "dbx-insurance-qa-hugging-face",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "diffusers-rust",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "document-pdf-qa",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "dolly",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "falcontune",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 4,
+        "count": 5,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 8,
+        "count": 8,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "hf-finetune",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "jupyter-to-databricks",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "jupyter-to-databricks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "larry",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "ml-on-databricks-2023-03-27",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "mlflow",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "mlflow-getting-started",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "mlops-world-end-to-end",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "movie-recommender",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "mpttune",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "picaisso",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "pyexample",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "pyexample",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "Transformers-Tutorials",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    }
 ]

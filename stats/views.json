@@ -6357,4 +6357,185 @@
         "count": 2,
         "timestamp": "2023-12-04"
     }
+][
+    {
+        "repo": "asr-databricks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "bryckster",
+        "uniques": 4,
+        "count": 6,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "confluent-databricks-streaming-nlp",
+        "uniques": 2,
+        "count": 17,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "confluent-databricks-streaming-nlp",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "databricks-cicd-workshop-terraform",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "databricks-demand-forecasting",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "databricks-distributed-deep-learning",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "databricks-end-to-end-realtime-webhooks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "databricks-end-to-end-realtime-webhooks",
+        "uniques": 5,
+        "count": 7,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 2,
+        "count": 95,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "databricks-end-to-end-streaming",
+        "uniques": 10,
+        "count": 79,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "databricks-feature-store",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "databricks-insurance-qa-nlp",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "databricks-llm-prompt-engineering",
+        "uniques": 19,
+        "count": 101,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "databricks-llm-prompt-engineering",
+        "uniques": 23,
+        "count": 104,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "databricks-ml-workshop",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "db-ancient-code-translation",
+        "uniques": 2,
+        "count": 22,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "db-ancient-code-translation",
+        "uniques": 7,
+        "count": 7,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "dbsql-python-run-saved-query",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "delta-auto-loader-examples",
+        "uniques": 5,
+        "count": 18,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "dialogpt-larry",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "hf-finetune",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "hf-finetune",
+        "uniques": 3,
+        "count": 4,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "jupyter-to-databricks",
+        "uniques": 4,
+        "count": 4,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "langchain-sql-databricks",
+        "uniques": 7,
+        "count": 55,
+        "timestamp": "2023-12-11"
+    },
+    {
+        "repo": "langchain-sql-databricks",
+        "uniques": 16,
+        "count": 68,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "mlflow-getting-started",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "movie-recommender",
+        "uniques": 2,
+        "count": 4,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "spark-nlp-hugging-face",
+        "uniques": 2,
+        "count": 4,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "spark-tuning",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-12-18"
+    }
 ]
